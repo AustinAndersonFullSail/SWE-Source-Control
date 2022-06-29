@@ -1,0 +1,32 @@
+https://github.com/github/gitignore
+
+﻿This is a collection of gitignore templates. 
+There are many different platforms, given by thousands of contributors to help you in seemingly any scenario. 
+One or more of these templates will no doubt help me in the future.
+﻿
+
+﻿﻿﻿https://github.com/leereilly/games
+
+﻿Here is a list of open-source games. 
+They have many different genres as well as different platforms of games. 
+It also includes add-ons, maps, and more! I hope to one day contribute to this list of games.
+﻿
+
+﻿﻿https://github.com/watson/airplanejs
+
+﻿This code will find ADS-B radio signals from airplanes and plot them in real-time on your browser map. 
+I find this interesting because it shows you the wide range of projects that GitHub has. 
+﻿
+
+﻿﻿https://github.com/AtsushiSakai/PythonRobotics
+
+﻿These interesting set of sample codes are for robotics, written in Python. 
+These could be used for a range of robotics controls like animation, mapping, and even different algorithms for your robot. 
+This could be very useful in the future assuming we will one day all have a house robot.
+﻿
+
+﻿﻿https://github.com/dkmeteor/Bubble-Notification
+
+﻿Bubble notifications with this code have the ability to explode. 
+There are a few different effects besides just the explosion, but the explosion was the one I found the most interesting. 
+This grabbed my attention because it shows you that you can change everything electronically around you using code.
